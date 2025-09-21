@@ -103,7 +103,8 @@
         "span": "cpp",
         "typeindex": "cpp",
         "filesystem": "cpp",
-        "*.idl": "cpp"
+        "*.idl": "cpp",
+        "xutility": "cpp"
     },
     "git.ignoreLimitWarning": true
 }
